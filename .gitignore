@@ -1,0 +1,38 @@
+# Python dependencies
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (keep CSVs but ignore large files)
+*.parquet
+*.h5
+
+# ML models
+*.pkl
+*.joblib
+*.h5
+
+# Logs
+*.log
+
+# Environment
+.env
