@@ -833,13 +833,13 @@ This project is created for educational and portfolio purposes. Data is syntheti
 
 ##  Author
 
-**Your Name**  
+**Rohit Bhowmick**  
 Data Analyst | Python | SQL | Machine Learning | Power BI
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- 💻 GitHub: [Your GitHub](https://github.com/yourusername)
-- 📊 Portfolio: [Your Portfolio](https://yourportfolio.com)
+- 📧 Email: rohitbhowmick817@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/rohit-bhowmick/
+- 💻 GitHub: https://github.com/rohit-bhowmick2002
+- 📊 Portfolio: https://rohit-bhowmick.lovable.app/
 
 ---
 
